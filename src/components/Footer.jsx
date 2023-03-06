@@ -1,4 +1,3 @@
-import arrows from '../assets/arrows.svg';
 
 const Footer = () => {
   return (
